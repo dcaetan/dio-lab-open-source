@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/douglas-caetano-lima/" target="blank"><img align="center" src="https://www.svgrepo.com/show/271118/linkedin.svg" alt="https://www.linkedin.com/in/douglas-caetano-lima/" height="40" width="40" /></a>
 <a href="https://web.whatsapp.com/send?phone=558197805098" target="blank"><img align="center" src="https://www.svgrepo.com/show/271106/whatsapp.svg" alt="https://web.whatsapp.com/send?phone=558197805098" height="40" width="40" /></a>
 <a href="https://t.me/+5581997805098" target="blank"><img align="center" src="https://www.svgrepo.com/show/271091/telegram.svg" alt="https://t.me/+5581997805098" height="40" width="40" /></a>
-<a href="malito:douglas.cto.lima@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/271115/gmail.svg" alt="malito:douglas.cto.lima@gmail.com" height="40" width="40" /></a>
+<a href="mailto:douglas.cto.lima@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/271115/gmail.svg" alt="mailto:douglas.cto.lima@gmail.com" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
